@@ -5,8 +5,10 @@ My name Mateus Aquino, I'm a brazilian Junior Data Scientist in love with Machin
 
 Originally in progress with a graduation in Statistics, and I believe in a better world led by science and also the "grammar of science" - which is statistics.
 
-👯 Techs & Tools: Python, SQL, Docker.
-📫 How to reach me: mateusrodriguesq@gmail.com | LinkedIn: linkedin.com/in/mateus-aquino-/
+- Techs & Tools: Python, SQL, Docker.
+
+- How to reach me: mateusrodriguesq@gmail.com | LinkedIn: linkedin.com/in/mateus-aquino-/
+
 🌐 Check out my Medium blog with articles and projects I've developed: mateusaquinoq.medium.com
 
 
