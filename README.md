@@ -15,6 +15,6 @@ Originally in progress with a graduation in Statistics, and I believe in a bette
 
 
 
-“Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+*“Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”*
 
 ―Josh Wills, Director of Data Engineering at Slack
