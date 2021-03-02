@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**mateusrodriguesq/mateusrodriguesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋
+My name Mateus Aquino, I'm a brazilian Junior Data Scientist in love with Machine Learning and all sorts of statistical applications.
 
-Here are some ideas to get you started:
+Originally in progress with a graduation in Statistics, and I believe in a better world led by science and also the "grammar of science" - which is statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Techs & Tools: Python, SQL, Docker.
+📫 How to reach me: mateusrodriguesq@gmail.com | LinkedIn: https://www.linkedin.com/in/mateus-aquino-/
+🌐 Check out my Medium blog with articles and projects I've developed: https://www.linkedin.com/in/mateus-aquino-/
+
+
+“Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+
+―Josh Wills, Director of Data Engineering at Slack
