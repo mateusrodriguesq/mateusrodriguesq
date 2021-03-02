@@ -12,6 +12,9 @@ Originally in progress with a graduation in Statistics, and I believe in a bette
 🌐 Check out my Medium blog with articles and projects I've developed: mateusaquinoq.medium.com
 
 
+
+
+
 “Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
 
 ―Josh Wills, Director of Data Engineering at Slack
