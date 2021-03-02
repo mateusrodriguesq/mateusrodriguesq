@@ -6,7 +6,7 @@ Originally in progress with a graduation in Statistics, and I believe in a bette
 
 **- Techs & Tools:** Python, SQL, Docker.
 
-**- How to reach me:** mateusrodriguesq@gmail.com | LinkedIn: linkedin.com/in/mateus-aquino-/
+**- How to reach me:** mateusrodriguesq@gmail.com | **LinkedIn:** linkedin.com/in/mateus-aquino-/
 
 🌐 Check out my Medium blog with articles and projects I've developed: **mateusaquinoq.medium.com**
 
