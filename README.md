@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name Mateus Aquino, I'm a brazilian Junior Data Scientist in love with Machine Learning and all sorts of statistical applications.
+My name Mateus Aquino, I'm a brazilian Data Scientist in love with Machine Learning and all sorts of statistical applications.
 
 Originally in progress with a graduation in Statistics, and I believe in a better world led by science and also the "grammar of science" - which is statistics.
 
