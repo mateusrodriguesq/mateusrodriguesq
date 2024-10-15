@@ -4,7 +4,7 @@ My name Mateus Aquino, I'm a brazilian Data Scientist in love with Machine Learn
 
 Originally in progress with a graduation in Statistics, and I believe in a better world led by science and also the "grammar of science" - which is statistics.
 
-**- Techs & Tools:** Python, SQL, Talend, SPC(Statistical Process Control), Data Quality and Validation.
+**- Techs & Tools:** Python, SQL, Talend, SPC(Statistical Process Control), Data Quality, Validation, Maachine Learning, Deep Learning, NLP, Development in LLM's.
 
 **- How to reach me:** mateusrodriguesq@gmail.com | **LinkedIn:** linkedin.com/in/mateus-aquino-/
 
