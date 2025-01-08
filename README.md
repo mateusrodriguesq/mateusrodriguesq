@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mateus Aquino
+# Hey there! I'm Mateus Aquino
 
 A passionate **Data Scientist** from Brazil, immersed in the fascinating world of **Machine Learning**, **Data Engineering**, and **statistical applications**. I'm currently pursuing a **bachelor's degree in Statistics**, where I'm building a strong foundation in data analysis, probabilistic models, and the "grammar of science" that drives insights and innovations.
 
